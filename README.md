@@ -1,1 +1,1 @@
-# SatisOS-Logo
+# SatisOS_Logo
